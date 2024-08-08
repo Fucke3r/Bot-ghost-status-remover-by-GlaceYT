@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["💻 Killua Development","🔥 Best high quality script/ui"];
 
 
 let currentIndex = 0;
